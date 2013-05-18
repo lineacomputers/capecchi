@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns = "http://www.w3.org/ns/widgets"
     xmlns:gap = "http://phonegap.com/ns/1.0"
-    id        = "com.lineacomputers.Klim"
+    id        = "com.lineacomputers.Capecchi"
     version   = "1.0.0">
 
 
 
-<name>Klim Ms</name>
+<name>Capecchi S.P.A. </name>
 
 <description>
-Klim sito Test
+Capecchi S.P.A.
 </description>
 
 <author href="http://www.lineanet.it" email="info@station.it">
